@@ -1,6 +1,7 @@
 **Visual Motion Analysis Using Images and Videos**
 
 **Project Overview**
+
 This project focuses on estimating the poses and movements of players and athletes in various activities using computer vision techniques. We've developed a pose connection map to analyze key points and, based on these key points, detect the type of activity being performed.
 
 **Key Features**
